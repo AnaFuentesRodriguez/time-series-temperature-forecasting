@@ -153,7 +153,7 @@ The analysis also focused on understanding how seasonality affects the stationar
 ## Repository Structure
 
 ```text
-notebooks/      -> analysis and forecasting notebooks
+scripts/      -> analysis and forecasting scripts
 images/         -> figures and visual results
 report/         -> project report
 ```
