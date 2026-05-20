@@ -1,6 +1,6 @@
-# Notebooks
+# Scripts
 
-This folder contains the Jupyter notebook used for:
+This folder contains the Python scripts used for:
 
 - Exploratory data analysis
 - Stationarity analysis
